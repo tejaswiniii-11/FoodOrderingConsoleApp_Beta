@@ -52,71 +52,14 @@ This **Beta version** of the Mini Food Ordering App allows an **Admin** to manag
 ## 📁 Project Structure (Suggested Packages)
 
 <img width="338" height="389" alt="image" src="https://github.com/user-attachments/assets/7068eafd-1849-4287-b561-b3fd7657b4b2" />
+
 <img width="229" height="397" alt="image" src="https://github.com/user-attachments/assets/0a09f264-0f3f-450a-9e4e-2c554df2a967" />
-<img width="256" height="394" alt="image" src="https://github.com/user-attachments/assets/9a494af7-cf05-42df-ac94-f9bbdedbee4b" />
+
+<img width="191" height="173" alt="image" src="https://github.com/user-attachments/assets/5df63ade-2cff-40c8-9385-ad715ec1d248" />
 
 
 
 
-com.aurionpro
-├── delivery
-|
-│   ├── DeliveryPartner.java
-|
-│   ├── DeliveryService.java
-|
-│   └── IDeliveryService.java
-│
-├── discount
-|
-│   ├── IDiscountStrategy.java
-|
-│   └── PercentageDiscount.java
-│
-├── food
-|
-│   ├── Menu.java
-|
-│   ├── MenuItem.java
-|
-│   ├── MenuManager.java
-|
-│   ├── IMenuManager.java
-|
-│   ├── IMenuViewer.java
-│
-├── invoice
-|
-│   ├── InvoiceGenerator.java
-|
-│   └── IInvoiceGenerator.java
-│
-├── orders
-|
-│   ├── CartItem.java
-|
-│   ├── OrderManager.java
-|
-│   └── IOrderManager.java
-│
-├── payments
-|
-│   ├── IPaymentService.java
-|
-│   ├── CashPayment.java
-|
-│   └── UpiPayment.java
-│
-├── users
-|
-│   ├── ICheckUser.java
-|
-│   ├── Admin.java
-|
-│   └── Customer.java
-│
-└── tests
-    └── FoodOrderingDriver.java
 
 
 🔍 SOLID Design Principles Used
