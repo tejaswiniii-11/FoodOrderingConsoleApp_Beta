@@ -1,58 +1,37 @@
-# FoodOrderingConsoleApp_Beta
+# 🍽️ Mini Food Ordering Console App (Beta)
 
+### A console-based food ordering system for Admins and Customers built with Java 🧑‍💻
 
----
-
-### 🍽️ **FoodOrderingConsoleApp\_Beta**
-
-#### 🎉 *Mini Food Ordering Console App (Beta Version)*
-
-A **console-based mini food ordering system** built with the following features:
+This **Beta version** of the Mini Food Ordering App allows an **Admin** to manage menus, discounts, and delivery partners, while **Customers** can browse menus, place orders, and receive printed invoices — all through a console interface.
 
 ---
 
-### 👩‍💼 **Admin Features**
+## 🚀 Features
 
-* 🧾 Manage **menus**
-* 💸 Set **discounts**
-* 🚚 Handle **delivery agents**
+### 👩‍💼 Admin Functionality
+- 🧾 Manage and edit **Menus** (add/delete cuisines & items)
+- 💸 Set flat **Discount** percentages
+- 🚚 Manage **Delivery Partners**
 
----
-
-### 👩‍🍳 **Customer Features**
-
-* 📜 **View menu** with food items & prices
-* 🛒 **Place an order** by selecting items and quantities
-* 🧮 System **calculates total** and applies a discount if applicable
-* 💰 **Choose payment** method: *Cash or UPI*
-* 🏍️ Get **order delivered** by a randomly assigned delivery partner
-* 🧾 **Invoice generated** and printed in the console
+### 👩‍🍳 Customer Functionality
+- 📜 View dynamic **Menus**
+- 🛒 Add multiple items to cart with quantities
+- 💳 **Payment** via Cash or UPI
+- 🏍️ Order assigned to a random delivery partner
+- 🧾 **Invoice** generated in the console
 
 ---
 
-### 📌 **Functional Scope**
+## 📌 Functional Scope
 
-✅ **Menu Display**
+- ✅ **Menu Display**: Dynamic list of food items by menu
+- ✅ **Order Placement**: Customer selects items and quantities
+- ✅ **Discount System**: Flat discount applied if total > ₹500 🤑
+- ✅ **Payment Options**: Choose between **Cash 💵** or **UPI 📱**
+- ✅ **Delivery Assignment**: Random assignment to available delivery agents
+- ✅ **Invoice Generation**: Print full bill with items, quantities, price, discount, total, payment method, and delivery partner
 
-> Show a fixed list of food items with their prices.
+---
 
-✅ **Order Placement**
-
-> Customer selects **multiple items and quantities**.
-
-✅ **Discount**
-
-> Apply a flat **discount if total > ₹500**. 🤑
-
-✅ **Payment Options**
-
-> Choose between **Cash 💵** or **UPI 📱**.
-
-✅ **Delivery Assignment**
-
-> Randomly assign one of the **two delivery partners 🚚**.
-
-✅ **Invoice Printing**
-
-> Print a detailed **bill with item names, quantities, total, discount, payment method & delivery partner info**.
+## 📁 Project Structure (Suggested Packages)
 
