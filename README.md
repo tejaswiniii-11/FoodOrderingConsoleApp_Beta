@@ -1,6 +1,5 @@
 # FoodOrderingConsoleApp_Beta
 
-Sure! Here's a more presentable and engaging version of your content with added structure and emojis:
 
 ---
 
