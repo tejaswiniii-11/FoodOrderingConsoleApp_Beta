@@ -51,6 +51,13 @@ This **Beta version** of the Mini Food Ordering App allows an **Admin** to manag
 
 ## 📁 Project Structure (Suggested Packages)
 
+<img width="338" height="389" alt="image" src="https://github.com/user-attachments/assets/7068eafd-1849-4287-b561-b3fd7657b4b2" />
+<img width="229" height="397" alt="image" src="https://github.com/user-attachments/assets/0a09f264-0f3f-450a-9e4e-2c554df2a967" />
+<img width="256" height="394" alt="image" src="https://github.com/user-attachments/assets/9a494af7-cf05-42df-ac94-f9bbdedbee4b" />
+
+
+
+
 com.aurionpro
 ├── delivery
 |
