@@ -1,31 +1,59 @@
 # FoodOrderingConsoleApp_Beta
 
-Mini Food Ordering Console App (Beta Version)
+Sure! Here's a more presentable and engaging version of your content with added structure and emojis:
 
-Designed a console-based mini food ordering system where:
+---
 
-Admin can manage menus, discounts and delivery agents
+### 🍽️ **FoodOrderingConsoleApp\_Beta**
 
-A customer can view a menu and place an order.
+#### 🎉 *Mini Food Ordering Console App (Beta Version)*
 
-The system calculates the total, applies a simple discount, and processes payment.
+A **console-based mini food ordering system** built with the following features:
 
-A delivery partner is assigned to deliver the order.
+---
 
-The system prints the invoice on the console.
+### 👩‍💼 **Admin Features**
 
-Functional Scope:
+* 🧾 Manage **menus**
+* 💸 Set **discounts**
+* 🚚 Handle **delivery agents**
 
-Menu Display
+---
 
-Show a fixed list of food items with price.
+### 👩‍🍳 **Customer Features**
 
-Order Placement - Customer selects multiple items and quantities.
+* 📜 **View menu** with food items & prices
+* 🛒 **Place an order** by selecting items and quantities
+* 🧮 System **calculates total** and applies a discount if applicable
+* 💰 **Choose payment** method: *Cash or UPI*
+* 🏍️ Get **order delivered** by a randomly assigned delivery partner
+* 🧾 **Invoice generated** and printed in the console
 
-Discount-Apply a flat discount if total > ₹500.
+---
 
-Payment - Choose between Cash or UPI.
+### 📌 **Functional Scope**
 
-Delivery - Randomly assign one of two delivery partners.
+✅ **Menu Display**
 
-Invoice - Print bill with item details, discount, total, payment mode, and delivery partner.
+> Show a fixed list of food items with their prices.
+
+✅ **Order Placement**
+
+> Customer selects **multiple items and quantities**.
+
+✅ **Discount**
+
+> Apply a flat **discount if total > ₹500**. 🤑
+
+✅ **Payment Options**
+
+> Choose between **Cash 💵** or **UPI 📱**.
+
+✅ **Delivery Assignment**
+
+> Randomly assign one of the **two delivery partners 🚚**.
+
+✅ **Invoice Printing**
+
+> Print a detailed **bill with item names, quantities, total, discount, payment method & delivery partner info**.
+
