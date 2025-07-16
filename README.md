@@ -8,7 +8,7 @@ This **Beta version** of the Mini Food Ordering App allows an **Admin** to manag
 
 ✅ Key Features
 
-👩‍💼 Admin Functionalities
+##👩‍💼** Admin Functionalities** ##
 
 ➕ Add/Delete Menus and Menu Items (with IDs)
 
@@ -24,7 +24,7 @@ This **Beta version** of the Mini Food Ordering App allows an **Admin** to manag
 ---
 
 
-👩‍🍳 Customer Functionalities
+##👩‍🍳 **Customer Functionalities** ##
 
 📖 View Menus
 
