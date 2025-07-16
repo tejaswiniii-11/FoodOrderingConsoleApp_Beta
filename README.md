@@ -55,16 +55,6 @@ This **Beta version** of the Mini Food Ordering App allows an **Admin** to manag
 
 ---
 
-## 📁 Project Structure (Suggested Packages)
-
-<img width="338" height="389" alt="image" src="https://github.com/user-attachments/assets/7068eafd-1849-4287-b561-b3fd7657b4b2" />
-
-
-
-<img width="338" height="389" alt="image" src="https://github.com/user-attachments/assets/0a09f264-0f3f-450a-9e4e-2c554df2a967" />
-
-<img width="191" height="173" alt="image" src="https://github.com/user-attachments/assets/5df63ade-2cff-40c8-9385-ad715ec1d248" />
-
 
 
 
