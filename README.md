@@ -18,6 +18,9 @@ This **Beta version** of the Mini Food Ordering App allows an **Admin** to manag
 
 🚚 Manage Delivery Partners
 
+📃 View Customer Invoices
+
+
 👩‍🍳 Customer Functionalities
 
 📖 View Menus
@@ -45,7 +48,7 @@ This **Beta version** of the Mini Food Ordering App allows an **Admin** to manag
 - ✅ **Discount System**: Flat discount applied if total > ₹500 🤑
 - ✅ **Payment Options**: Choose between **Cash 💵** or **UPI 📱**
 - ✅ **Delivery Assignment**: Random assignment to available delivery agents
-- ✅ **Invoice Generation**: Print full bill with items, quantities, price, discount, total, payment method, and delivery partner
+- ✅ **Invoice Generation**: Print full bill with items, quantities, price, discount, total, payment method, and delivery partner and also store it using serialization concept
 
 ---
 
