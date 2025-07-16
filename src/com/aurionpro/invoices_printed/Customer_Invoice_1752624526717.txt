@@ -1,0 +1,14 @@
+
+=============== 🧾 INVOICE 🧾 ===============
+🕒 Order Time       : 16-07-2025 05:38:46
+🚚 Delivery Partner : Zomato
+💳 Payment Method   : Cash
+--------------------------------------------
+Item                 Qty        Price     
+Chicken Malai Tikka  1          ₹250.00    
+--------------------------------------------
+Total Before Discount : ₹250.00
+Discounted Total      : ₹250.00
+============================================
+
+Thank you and visit again!
