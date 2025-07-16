@@ -21,6 +21,9 @@ This **Beta version** of the Mini Food Ordering App allows an **Admin** to manag
 📃 View Customer Invoices
 
 
+---
+
+
 👩‍🍳 Customer Functionalities
 
 📖 View Menus
